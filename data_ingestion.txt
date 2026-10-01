@@ -4,3 +4,4 @@ master contributing to project
 
 
 I'm adding this line
+I'm adding this for bugfix3
